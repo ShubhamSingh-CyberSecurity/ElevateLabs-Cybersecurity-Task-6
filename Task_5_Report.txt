@@ -1,0 +1,73 @@
+Report: Password Strength Evaluation and Best Practices
+
+*Objective: Understand what makes a password strong and evaluate it using online password strength checkers.
+
+*Method:
+
+Created 7 sample passwords with varying complexity
+Tested each using passwordmeter.com
+Collected scores and feedback
+Researched common password attacks
+Summarized findings and best practices
+
+*Passwords Created and Results:
+
+Password		Score	Feedback
+password123		43%	Too common, predictable, no symbols
+John1998		30%	Contains name and date, easy to guess
+P@ssw0rd!		45%	Better, but still similar to common passwords
+Ght$28Lpx*		82%	Strong, good length, complex
+#RedHorseRuns@58	100%	Excellent, long, unpredictable, complex
+Summer2023		35%	Easy to guess, seasonal
+qL9&vX#rZ12!		95%	Very strong, high entropy, random characters
+
+Analysis:
+Short and predictable passwords (e.g., password123, Summer2023) scored poorly.
+Use of names or dates (e.g., John1998) made them weak.
+Adding symbols, uppercase, and numbers improved scores.
+Random, lengthy, and complex combinations (e.g., qL9&vX#rZ12!) rated as very strong.
+Passphrases (e.g., #RedHorseRuns@58) were also strong and easier to remember than random strings.
+
+Best Practices for Creating Strong Passwords:
+1. Use at least 12–16 characters
+2. Mix uppercase, lowercase, numbers, and symbols
+3. Avoid personal details (names, birthdays, hobbies)
+4. Never use common dictionary words alone
+5. Consider using passphrases with random words
+6. Change passwords regularly
+7. Use different passwords for each account
+8. Enable multi-factor authentication (MFA)
+
+* Common Password Attacks:-
+
+1. Brute Force Attacks:
+Attackers systematically try every possible combination of characters until they find the correct password.
+Slower but effective against short or simple passwords.
+
+2. Dictionary Attacks:
+Use precompiled lists of common words or passwords to guess user credentials.
+Faster than brute force, but easily defeated by using random or complex passwords.
+
+3. Credential Stuffing:
+Attackers reuse stolen username/password pairs from previous data breaches on other websites.
+Exploits people who reuse the same password across multiple accounts.
+
+4. Phishing:
+Social engineering attack that tricks users into revealing their password, often through fake login pages, emails, or messages.
+Bypasses even the strongest passwords if users voluntarily give them away.
+
+
+* How Password Complexity Affects Security:-
+Longer, more complex passwords dramatically increase the time needed for attackers to crack them.
+Each added character exponentially improves security.
+Randomness defeats dictionary-based guessing.
+Passphrases can be easier to memorize while still strong.
+
+* Key Takeaways:-
+Simple passwords are easily broken
+Password managers can help generate and store complex passwords
+Multi-factor authentication adds a crucial second layer of defense
+Passphrases are practical for strong and memorable passwords
+
+* Outcome Achieved: Understood password security principles and best practices for creating and evaluating strong passwords.
+
